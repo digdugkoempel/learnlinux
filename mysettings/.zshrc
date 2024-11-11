@@ -105,4 +105,4 @@ source $ZSH/oh-my-zsh.sh
 # username en map in prompt
 # PS1='%n@%m %/ $ '
 # map in prompt
-PS1='%m %/ $ '
+# PS1='%m %/ $ '
