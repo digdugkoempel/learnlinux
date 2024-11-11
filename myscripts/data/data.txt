@@ -1,0 +1,11 @@
+ID,Name,Department,Salary,JoiningDate
+1,John Doe,Engineering,85000,2015-06-23
+2,Jane Smith,Marketing,65000,2016-09-15
+3,Bob Johnson,HR,50000,2018-03-12
+4,Alice Williams,Engineering,90000,2014-11-30
+5,Tom Clark,Finance,72000,2019-05-19
+6,Eve Adams,Engineering,75000,2017-01-10
+7,Lucy Brown,Marketing,60000,2020-08-02
+8,Mark Davis,HR,55000,2015-02-28
+9,Jane Black,Finance,82000,2019-07-07
+10,David Wilson,Engineering,91000,2013-12-05
